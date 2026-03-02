@@ -38,8 +38,3 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 - `GET /health`
 - `GET /kpis`
 - `GET /alerts`
-
-## Suggested Figma Structure
-- **Pages**: Dashboard, Models, Model Detail, Alerts, Logs, Settings.
-- **Components**: Sidebar, Topbar, KPI Card, Alert Row, Chart Card.
-- **Design Tokens**: Primary `#1f6feb`, Success `#2da44e`, Warning `#7a4f01`, Critical `#b42318`.
