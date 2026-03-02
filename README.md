@@ -2,6 +2,12 @@
 
 A full-stack starter project for monitoring deployed AI model performance in real time.
 
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="assets/dashboard-overview.png" width="900">
+</p>
+
 ## Features
 - Sidebar + topbar app layout.
 - Main dashboard with KPI cards (accuracy, latency, volume, drift).
